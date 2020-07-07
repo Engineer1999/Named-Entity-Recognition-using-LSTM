@@ -8,7 +8,8 @@
 ## What is LSTM?
 > Long short-term memory is an artificial recurrent neural network architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points, but also entire sequences of data.
 [Source](https://en.wikipedia.org/wiki/Long_short-term_memory)
-
+![LSTM](Images/LSTM3-chain.png)
 ## What is bidirectinal LSTM?
 > Bidirectional Recurrent Neural Networks connect two hidden layers of opposite directions to the same output. With this form of generative deep learning, the output layer can get information from past and future states simultaneously.
 [Source](https://en.wikipedia.org/wiki/Bidirectional_recurrent_neural_networks)
+![LSTM](Images/Bi-LSTM.png)
